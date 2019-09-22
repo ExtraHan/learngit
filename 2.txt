@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ohoh
-=======
-hello this is 2.txt there is nothing in it
->>>>>>> 3cfc5acd92edf5538caac6cbded48f7ea30067cf
+2.txt conflict is fixed
